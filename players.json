@@ -1,0 +1,3971 @@
+[
+  {
+    "player_id": "2544",
+    "name": "LeBron James",
+    "best_skill": "AST",
+    "z_score": 3.34,
+    "raw_value": 0.3654545455
+  },
+  {
+    "player_id": "101108",
+    "name": "Chris Paul",
+    "best_skill": "AST",
+    "z_score": 2.97,
+    "raw_value": 0.3353658537
+  },
+  {
+    "player_id": "200768",
+    "name": "Kyle Lowry",
+    "best_skill": "STL",
+    "z_score": 0.67,
+    "raw_value": 0.1178571429
+  },
+  {
+    "player_id": "200782",
+    "name": "PJ Tucker",
+    "best_skill": "PF",
+    "z_score": 0.919,
+    "raw_value": 0.375
+  },
+  {
+    "player_id": "201142",
+    "name": "Kevin Durant",
+    "best_skill": "PTS",
+    "z_score": 2.725,
+    "raw_value": 0.435483871
+  },
+  {
+    "player_id": "201143",
+    "name": "Al Horford",
+    "best_skill": "BLK",
+    "z_score": 1.29,
+    "raw_value": 0.09154929577
+  },
+  {
+    "player_id": "201144",
+    "name": "Mike Conley",
+    "best_skill": "AST",
+    "z_score": 1.246,
+    "raw_value": 0.1950317125
+  },
+  {
+    "player_id": "201145",
+    "name": "Jeff Green",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.749,
+    "raw_value": 0.3362941176
+  },
+  {
+    "player_id": "201566",
+    "name": "Russell Westbrook",
+    "best_skill": "TOV",
+    "z_score": 2.427,
+    "raw_value": 0.2809917355
+  },
+  {
+    "player_id": "201567",
+    "name": "Kevin Love",
+    "best_skill": "REB",
+    "z_score": 0.207,
+    "raw_value": 0.1459627329
+  },
+  {
+    "player_id": "201569",
+    "name": "Eric Gordon",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.769,
+    "raw_value": 0.3389487179
+  },
+  {
+    "player_id": "201572",
+    "name": "Brook Lopez",
+    "best_skill": "BLK",
+    "z_score": 3.502,
+    "raw_value": 0.18
+  },
+  {
+    "player_id": "201587",
+    "name": "Nicolas Batum",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.002,
+    "raw_value": 0.3696
+  },
+  {
+    "player_id": "201599",
+    "name": "DeAndre Jordan",
+    "best_skill": "FG_PCT",
+    "z_score": 1.363,
+    "raw_value": 0.5668412698
+  },
+  {
+    "player_id": "201935",
+    "name": "James Harden",
+    "best_skill": "TOV",
+    "z_score": 3.787,
+    "raw_value": 0.3826638478
+  },
+  {
+    "player_id": "201939",
+    "name": "Stephen Curry",
+    "best_skill": "PTS",
+    "z_score": 2.383,
+    "raw_value": 0.3991172762
+  },
+  {
+    "player_id": "201942",
+    "name": "DeMar DeRozan",
+    "best_skill": "FT_PCT",
+    "z_score": 2.065,
+    "raw_value": 0.8335714286
+  },
+  {
+    "player_id": "201949",
+    "name": "James Johnson",
+    "best_skill": "FG_PCT",
+    "z_score": -0.111,
+    "raw_value": 0.3889166667
+  },
+  {
+    "player_id": "201950",
+    "name": "Jrue Holiday",
+    "best_skill": "AST",
+    "z_score": 1.012,
+    "raw_value": 0.175974026
+  },
+  {
+    "player_id": "201959",
+    "name": "Taj Gibson",
+    "best_skill": "FG_PCT",
+    "z_score": 0.306,
+    "raw_value": 0.4392432432
+  },
+  {
+    "player_id": "201988",
+    "name": "Patty Mills",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.411,
+    "raw_value": 0.2918
+  },
+  {
+    "player_id": "202066",
+    "name": "Garrett Temple",
+    "best_skill": "STL",
+    "z_score": -0.028,
+    "raw_value": 0.08173076923
+  },
+  {
+    "player_id": "202331",
+    "name": "Paul George",
+    "best_skill": "STL",
+    "z_score": 2.809,
+    "raw_value": 0.2286585366
+  },
+  {
+    "player_id": "202681",
+    "name": "Kyrie Irving",
+    "best_skill": "PTS",
+    "z_score": 2.435,
+    "raw_value": 0.4045901639
+  },
+  {
+    "player_id": "202684",
+    "name": "Tristan Thompson",
+    "best_skill": "REB",
+    "z_score": 0.017,
+    "raw_value": 0.1297909408
+  },
+  {
+    "player_id": "202685",
+    "name": "Jonas Valanciunas",
+    "best_skill": "REB",
+    "z_score": 1.735,
+    "raw_value": 0.2764550265
+  },
+  {
+    "player_id": "202687",
+    "name": "Bismack Biyombo",
+    "best_skill": "BLK",
+    "z_score": 1.054,
+    "raw_value": 0.08214285714
+  },
+  {
+    "player_id": "202691",
+    "name": "Klay Thompson",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.986,
+    "raw_value": 0.3675138889
+  },
+  {
+    "player_id": "202692",
+    "name": "Alec Burks",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.944,
+    "raw_value": 0.36194
+  },
+  {
+    "player_id": "202693",
+    "name": "Markieff Morris",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.291,
+    "raw_value": 0.2761333333
+  },
+  {
+    "player_id": "202695",
+    "name": "Kawhi Leonard",
+    "best_skill": "STL",
+    "z_score": 2.07,
+    "raw_value": 0.1903409091
+  },
+  {
+    "player_id": "202696",
+    "name": "Nikola Vucevic",
+    "best_skill": "REB",
+    "z_score": 2.709,
+    "raw_value": 0.3595890411
+  },
+  {
+    "player_id": "202699",
+    "name": "Tobias Harris",
+    "best_skill": "FT_PCT",
+    "z_score": 1.141,
+    "raw_value": 0.6243417722
+  },
+  {
+    "player_id": "202704",
+    "name": "Reggie Jackson",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.194,
+    "raw_value": 0.2632903226
+  },
+  {
+    "player_id": "202709",
+    "name": "Cory Joseph",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.41,
+    "raw_value": 0.2917735849
+  },
+  {
+    "player_id": "202710",
+    "name": "Jimmy Butler",
+    "best_skill": "FT_PCT",
+    "z_score": 1.855,
+    "raw_value": 0.7859848485
+  },
+  {
+    "player_id": "203076",
+    "name": "Anthony Davis",
+    "best_skill": "BLK",
+    "z_score": 4.395,
+    "raw_value": 0.2156862745
+  },
+  {
+    "player_id": "203078",
+    "name": "Bradley Beal",
+    "best_skill": "PF",
+    "z_score": 1.337,
+    "raw_value": 0.427672956
+  },
+  {
+    "player_id": "203081",
+    "name": "Damian Lillard",
+    "best_skill": "AST",
+    "z_score": 2.732,
+    "raw_value": 0.3159463487
+  },
+  {
+    "player_id": "203083",
+    "name": "Andre Drummond",
+    "best_skill": "REB",
+    "z_score": 1.739,
+    "raw_value": 0.2767857143
+  },
+  {
+    "player_id": "203084",
+    "name": "Harrison Barnes",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.255,
+    "raw_value": 0.4029268293
+  },
+  {
+    "player_id": "203109",
+    "name": "Jae Crowder",
+    "best_skill": "FG3_PCT",
+    "z_score": -0.329,
+    "raw_value": 0.1944444444
+  },
+  {
+    "player_id": "203110",
+    "name": "Draymond Green",
+    "best_skill": "PF",
+    "z_score": 2.292,
+    "raw_value": 0.5479166667
+  },
+  {
+    "player_id": "203114",
+    "name": "Khris Middleton",
+    "best_skill": "AST",
+    "z_score": 1.114,
+    "raw_value": 0.1842751843
+  },
+  {
+    "player_id": "203458",
+    "name": "Alex Len",
+    "best_skill": "BLK",
+    "z_score": 0.167,
+    "raw_value": 0.04666666667
+  },
+  {
+    "player_id": "203468",
+    "name": "CJ McCollum",
+    "best_skill": "PTS",
+    "z_score": 1.887,
+    "raw_value": 0.3463114754
+  },
+  {
+    "player_id": "203471",
+    "name": "Dennis Schroder",
+    "best_skill": "AST",
+    "z_score": 1.787,
+    "raw_value": 0.2390572391
+  },
+  {
+    "player_id": "203482",
+    "name": "Kelly Olynyk",
+    "best_skill": "PF",
+    "z_score": 1.641,
+    "raw_value": 0.4659090909
+  },
+  {
+    "player_id": "203484",
+    "name": "Kentavious Caldwell-Pope",
+    "best_skill": "STL",
+    "z_score": 1.514,
+    "raw_value": 0.1615853659
+  },
+  {
+    "player_id": "203486",
+    "name": "Mason Plumlee",
+    "best_skill": "FG_PCT",
+    "z_score": 1.176,
+    "raw_value": 0.5442027027
+  },
+  {
+    "player_id": "203497",
+    "name": "Rudy Gobert",
+    "best_skill": "REB",
+    "z_score": 2.892,
+    "raw_value": 0.3752052545
+  },
+  {
+    "player_id": "203500",
+    "name": "Steven Adams",
+    "best_skill": "REB",
+    "z_score": 0.935,
+    "raw_value": 0.2081473214
+  },
+  {
+    "player_id": "203501",
+    "name": "Tim Hardaway Jr.",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.757,
+    "raw_value": 0.3374337349
+  },
+  {
+    "player_id": "203507",
+    "name": "Giannis Antetokounmpo",
+    "best_skill": "REB",
+    "z_score": 3.581,
+    "raw_value": 0.4340277778
+  },
+  {
+    "player_id": "203552",
+    "name": "Seth Curry",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.79,
+    "raw_value": 0.3416911765
+  },
+  {
+    "player_id": "203897",
+    "name": "Zach LaVine",
+    "best_skill": "PTS",
+    "z_score": 2.222,
+    "raw_value": 0.3819229065
+  },
+  {
+    "player_id": "203901",
+    "name": "Elfrid Payton",
+    "best_skill": "AST",
+    "z_score": 2.713,
+    "raw_value": 0.3143939394
+  },
+  {
+    "player_id": "203903",
+    "name": "Jordan Clarkson",
+    "best_skill": "TOV",
+    "z_score": 1.496,
+    "raw_value": 0.2113022113
+  },
+  {
+    "player_id": "203914",
+    "name": "Gary Harris",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.127,
+    "raw_value": 0.2545
+  },
+  {
+    "player_id": "203915",
+    "name": "Spencer Dinwiddie",
+    "best_skill": "AST",
+    "z_score": 1.317,
+    "raw_value": 0.2008055236
+  },
+  {
+    "player_id": "203924",
+    "name": "Jerami Grant",
+    "best_skill": "BLK",
+    "z_score": 1.448,
+    "raw_value": 0.09787234043
+  },
+  {
+    "player_id": "203926",
+    "name": "Doug McDermott",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.512,
+    "raw_value": 0.3051052632
+  },
+  {
+    "player_id": "203932",
+    "name": "Aaron Gordon",
+    "best_skill": "FT_PCT",
+    "z_score": 1.388,
+    "raw_value": 0.6804
+  },
+  {
+    "player_id": "203935",
+    "name": "Marcus Smart",
+    "best_skill": "STL",
+    "z_score": 1.163,
+    "raw_value": 0.1433823529
+  },
+  {
+    "player_id": "203937",
+    "name": "Kyle Anderson",
+    "best_skill": "FG_PCT",
+    "z_score": 0.405,
+    "raw_value": 0.4511269841
+  },
+  {
+    "player_id": "203939",
+    "name": "Dwight Powell",
+    "best_skill": "BLK",
+    "z_score": 0.03,
+    "raw_value": 0.04117647059
+  },
+  {
+    "player_id": "203944",
+    "name": "Julius Randle",
+    "best_skill": "TOV",
+    "z_score": 2.216,
+    "raw_value": 0.2651515152
+  },
+  {
+    "player_id": "203952",
+    "name": "Andrew Wiggins",
+    "best_skill": "FT_PCT",
+    "z_score": 1.386,
+    "raw_value": 0.679875
+  },
+  {
+    "player_id": "203954",
+    "name": "Joel Embiid",
+    "best_skill": "TOV",
+    "z_score": 2.637,
+    "raw_value": 0.2966507177
+  },
+  {
+    "player_id": "203957",
+    "name": "Dante Exum",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.057,
+    "raw_value": 0.3768
+  },
+  {
+    "player_id": "203967",
+    "name": "Dario Saric",
+    "best_skill": "TOV",
+    "z_score": -0.19,
+    "raw_value": 0.08522727273
+  },
+  {
+    "player_id": "203991",
+    "name": "Clint Capela",
+    "best_skill": "REB",
+    "z_score": 2.065,
+    "raw_value": 0.3045454545
+  },
+  {
+    "player_id": "203992",
+    "name": "Bogdan Bogdanovic",
+    "best_skill": "PF",
+    "z_score": 1.239,
+    "raw_value": 0.4153005464
+  },
+  {
+    "player_id": "203994",
+    "name": "Jusuf Nurkic",
+    "best_skill": "REB",
+    "z_score": 1.762,
+    "raw_value": 0.2787114846
+  },
+  {
+    "player_id": "203995",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 0.953,
+    "raw_value": 0.1707317073
+  },
+  {
+    "player_id": "203999",
+    "name": "Nikola Jokic",
+    "best_skill": "AST",
+    "z_score": 4.355,
+    "raw_value": 0.4480519481
+  },
+  {
+    "player_id": "204001",
+    "name": "Kristaps Porzingis",
+    "best_skill": "BLK",
+    "z_score": 2.398,
+    "raw_value": 0.1358490566
+  },
+  {
+    "player_id": "204060",
+    "name": "Joe Ingles",
+    "best_skill": "AST",
+    "z_score": -0.347,
+    "raw_value": 0.06534090909
+  },
+  {
+    "player_id": "204456",
+    "name": "T.J. McConnell",
+    "best_skill": "AST",
+    "z_score": 1.214,
+    "raw_value": 0.1924384027
+  },
+  {
+    "player_id": "1626143",
+    "name": "Jahlil Okafor",
+    "best_skill": "AST",
+    "z_score": -0.592,
+    "raw_value": 0.04545454545
+  },
+  {
+    "player_id": "1626145",
+    "name": "Tyus Jones",
+    "best_skill": "AST",
+    "z_score": 1.808,
+    "raw_value": 0.2407407407
+  },
+  {
+    "player_id": "1626153",
+    "name": "Delon Wright",
+    "best_skill": "STL",
+    "z_score": 0.315,
+    "raw_value": 0.09948979592
+  },
+  {
+    "player_id": "1626156",
+    "name": "D'Angelo Russell",
+    "best_skill": "AST",
+    "z_score": 1.71,
+    "raw_value": 0.2327586207
+  },
+  {
+    "player_id": "1626157",
+    "name": "Karl-Anthony Towns",
+    "best_skill": "REB",
+    "z_score": 3.562,
+    "raw_value": 0.4323308271
+  },
+  {
+    "player_id": "1626158",
+    "name": "Richaun Holmes",
+    "best_skill": "FG_PCT",
+    "z_score": 1.628,
+    "raw_value": 0.5988709677
+  },
+  {
+    "player_id": "1626162",
+    "name": "Kelly Oubre Jr.",
+    "best_skill": "STL",
+    "z_score": 2.095,
+    "raw_value": 0.1916666667
+  },
+  {
+    "player_id": "1626164",
+    "name": "Devin Booker",
+    "best_skill": "AST",
+    "z_score": 2.789,
+    "raw_value": 0.3206060606
+  },
+  {
+    "player_id": "1626166",
+    "name": "Cameron Payne",
+    "best_skill": "AST",
+    "z_score": 0.217,
+    "raw_value": 0.1112852665
+  },
+  {
+    "player_id": "1626167",
+    "name": "Myles Turner",
+    "best_skill": "BLK",
+    "z_score": 3.78,
+    "raw_value": 0.1910891089
+  },
+  {
+    "player_id": "1626168",
+    "name": "Trey Lyles",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.621,
+    "raw_value": 0.3194492754
+  },
+  {
+    "player_id": "1626171",
+    "name": "Bobby Portis",
+    "best_skill": "REB",
+    "z_score": 1.999,
+    "raw_value": 0.2989417989
+  },
+  {
+    "player_id": "1626172",
+    "name": "Kevon Looney",
+    "best_skill": "REB",
+    "z_score": 0.898,
+    "raw_value": 0.2049512987
+  },
+  {
+    "player_id": "1626179",
+    "name": "Terry Rozier",
+    "best_skill": "FT_PCT",
+    "z_score": 0.612,
+    "raw_value": 0.5046875
+  },
+  {
+    "player_id": "1626181",
+    "name": "Norman Powell",
+    "best_skill": "PTS",
+    "z_score": 1.893,
+    "raw_value": 0.3469537558
+  },
+  {
+    "player_id": "1626192",
+    "name": "Pat Connaughton",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.349,
+    "raw_value": 0.2837209302
+  },
+  {
+    "player_id": "1626196",
+    "name": "Josh Richardson",
+    "best_skill": "STL",
+    "z_score": 0.808,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1626204",
+    "name": "Larry Nance Jr.",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.796,
+    "raw_value": 0.3424583333
+  },
+  {
+    "player_id": "1626220",
+    "name": "Royce O'Neale",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.187,
+    "raw_value": 0.3939733333
+  },
+  {
+    "player_id": "1627732",
+    "name": "Ben Simmons",
+    "best_skill": "AST",
+    "z_score": 1.732,
+    "raw_value": 0.2345779221
+  },
+  {
+    "player_id": "1627734",
+    "name": "Domantas Sabonis",
+    "best_skill": "REB",
+    "z_score": 4.307,
+    "raw_value": 0.4959183673
+  },
+  {
+    "player_id": "1627736",
+    "name": "Malik Beasley",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.278,
+    "raw_value": 0.4059090909
+  },
+  {
+    "player_id": "1627739",
+    "name": "Kris Dunn",
+    "best_skill": "STL",
+    "z_score": 2.447,
+    "raw_value": 0.2098765432
+  },
+  {
+    "player_id": "1627741",
+    "name": "Buddy Hield",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.777,
+    "raw_value": 0.34
+  },
+  {
+    "player_id": "1627742",
+    "name": "Brandon Ingram",
+    "best_skill": "TOV",
+    "z_score": 3.33,
+    "raw_value": 0.3484848485
+  },
+  {
+    "player_id": "1627746",
+    "name": "Skal Labissiere",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.093,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1627747",
+    "name": "Caris LeVert",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.851,
+    "raw_value": 0.34971875
+  },
+  {
+    "player_id": "1627749",
+    "name": "Dejounte Murray",
+    "best_skill": "STL",
+    "z_score": 3.299,
+    "raw_value": 0.2540322581
+  },
+  {
+    "player_id": "1627750",
+    "name": "Jamal Murray",
+    "best_skill": "AST",
+    "z_score": 2.132,
+    "raw_value": 0.2671156004
+  },
+  {
+    "player_id": "1627751",
+    "name": "Jakob Poeltl",
+    "best_skill": "REB",
+    "z_score": 2.512,
+    "raw_value": 0.3427318296
+  },
+  {
+    "player_id": "1627752",
+    "name": "Taurean Prince",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.306,
+    "raw_value": 0.4096705882
+  },
+  {
+    "player_id": "1627759",
+    "name": "Jaylen Brown",
+    "best_skill": "PTS",
+    "z_score": 2.049,
+    "raw_value": 0.3635356668
+  },
+  {
+    "player_id": "1627763",
+    "name": "Malcolm Brogdon",
+    "best_skill": "FT_PCT",
+    "z_score": 1.728,
+    "raw_value": 0.7572916667
+  },
+  {
+    "player_id": "1627777",
+    "name": "Georges Niang",
+    "best_skill": "PF",
+    "z_score": 1.309,
+    "raw_value": 0.4240506329
+  },
+  {
+    "player_id": "1627780",
+    "name": "Gary Payton II",
+    "best_skill": "FG_PCT",
+    "z_score": 0.909,
+    "raw_value": 0.5119726027
+  },
+  {
+    "player_id": "1627783",
+    "name": "Pascal Siakam",
+    "best_skill": "PTS",
+    "z_score": 1.664,
+    "raw_value": 0.3225065114
+  },
+  {
+    "player_id": "1627814",
+    "name": "Damion Lee",
+    "best_skill": "FT_PCT",
+    "z_score": -0.007,
+    "raw_value": 0.3645833333
+  },
+  {
+    "player_id": "1627824",
+    "name": "Guerschon Yabusele",
+    "best_skill": "PF",
+    "z_score": 1.042,
+    "raw_value": 0.3904761905
+  },
+  {
+    "player_id": "1627826",
+    "name": "Ivica Zubac",
+    "best_skill": "REB",
+    "z_score": 3.695,
+    "raw_value": 0.4437602627
+  },
+  {
+    "player_id": "1627827",
+    "name": "Dorian Finney-Smith",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.045,
+    "raw_value": 0.3753088235
+  },
+  {
+    "player_id": "1627832",
+    "name": "Fred VanVleet",
+    "best_skill": "STL",
+    "z_score": 2.033,
+    "raw_value": 0.1884328358
+  },
+  {
+    "player_id": "1627884",
+    "name": "Derrick Jones Jr.",
+    "best_skill": "FG_PCT",
+    "z_score": 1.045,
+    "raw_value": 0.5284642857
+  },
+  {
+    "player_id": "1627936",
+    "name": "Alex Caruso",
+    "best_skill": "STL",
+    "z_score": 2.532,
+    "raw_value": 0.2142857143
+  },
+  {
+    "player_id": "1628365",
+    "name": "Markelle Fultz",
+    "best_skill": "FG_PCT",
+    "z_score": -0.08,
+    "raw_value": 0.3926
+  },
+  {
+    "player_id": "1628366",
+    "name": "Lonzo Ball",
+    "best_skill": "STL",
+    "z_score": 1.635,
+    "raw_value": 0.1678571429
+  },
+  {
+    "player_id": "1628368",
+    "name": "De'Aaron Fox",
+    "best_skill": "AST",
+    "z_score": 2.381,
+    "raw_value": 0.2873900293
+  },
+  {
+    "player_id": "1628369",
+    "name": "Jayson Tatum",
+    "best_skill": "PTS",
+    "z_score": 2.786,
+    "raw_value": 0.4420081967
+  },
+  {
+    "player_id": "1628370",
+    "name": "Malik Monk",
+    "best_skill": "AST",
+    "z_score": 1.96,
+    "raw_value": 0.2531468531
+  },
+  {
+    "player_id": "1628371",
+    "name": "Jonathan Isaac",
+    "best_skill": "BLK",
+    "z_score": 1.666,
+    "raw_value": 0.1065789474
+  },
+  {
+    "player_id": "1628374",
+    "name": "Lauri Markkanen",
+    "best_skill": "FT_PCT",
+    "z_score": 1.664,
+    "raw_value": 0.7428723404
+  },
+  {
+    "player_id": "1628378",
+    "name": "Donovan Mitchell",
+    "best_skill": "PTS",
+    "z_score": 2.421,
+    "raw_value": 0.4030737705
+  },
+  {
+    "player_id": "1628379",
+    "name": "Luke Kennard",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.867,
+    "raw_value": 0.3518695652
+  },
+  {
+    "player_id": "1628380",
+    "name": "Zach Collins",
+    "best_skill": "PF",
+    "z_score": 0.671,
+    "raw_value": 0.34375
+  },
+  {
+    "player_id": "1628381",
+    "name": "John Collins",
+    "best_skill": "FT_PCT",
+    "z_score": 2.331,
+    "raw_value": 0.89385
+  },
+  {
+    "player_id": "1628384",
+    "name": "OG Anunoby",
+    "best_skill": "STL",
+    "z_score": 2.077,
+    "raw_value": 0.1907216495
+  },
+  {
+    "player_id": "1628386",
+    "name": "Jarrett Allen",
+    "best_skill": "REB",
+    "z_score": 2.515,
+    "raw_value": 0.3430141287
+  },
+  {
+    "player_id": "1628389",
+    "name": "Bam Adebayo",
+    "best_skill": "REB",
+    "z_score": 2.543,
+    "raw_value": 0.3453832753
+  },
+  {
+    "player_id": "1628392",
+    "name": "Isaiah Hartenstein",
+    "best_skill": "REB",
+    "z_score": 2.597,
+    "raw_value": 0.35
+  },
+  {
+    "player_id": "1628396",
+    "name": "Tony Bradley",
+    "best_skill": "BLK",
+    "z_score": -0.018,
+    "raw_value": 0.03928571429
+  },
+  {
+    "player_id": "1628398",
+    "name": "Kyle Kuzma",
+    "best_skill": "TOV",
+    "z_score": 1.258,
+    "raw_value": 0.1935064935
+  },
+  {
+    "player_id": "1628401",
+    "name": "Derrick White",
+    "best_skill": "BLK",
+    "z_score": 1.645,
+    "raw_value": 0.1057471264
+  },
+  {
+    "player_id": "1628404",
+    "name": "Josh Hart",
+    "best_skill": "REB",
+    "z_score": 2.271,
+    "raw_value": 0.3221428571
+  },
+  {
+    "player_id": "1628408",
+    "name": "PJ Dozier",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.364,
+    "raw_value": 0.2857142857
+  },
+  {
+    "player_id": "1628415",
+    "name": "Dillon Brooks",
+    "best_skill": "PF",
+    "z_score": 2.283,
+    "raw_value": 0.5467479675
+  },
+  {
+    "player_id": "1628418",
+    "name": "Thomas Bryant",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.495,
+    "raw_value": 0.3029770115
+  },
+  {
+    "player_id": "1628420",
+    "name": "Monte Morris",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.197,
+    "raw_value": 0.2637111111
+  },
+  {
+    "player_id": "1628427",
+    "name": "Vlatko Cancar",
+    "best_skill": "TOV",
+    "z_score": -0.342,
+    "raw_value": 0.07386363636
+  },
+  {
+    "player_id": "1628436",
+    "name": "Luke Kornet",
+    "best_skill": "BLK",
+    "z_score": 1.501,
+    "raw_value": 0.1
+  },
+  {
+    "player_id": "1628449",
+    "name": "Chris Boucher",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.509,
+    "raw_value": 0.3048
+  },
+  {
+    "player_id": "1628464",
+    "name": "Daniel Theis",
+    "best_skill": "PF",
+    "z_score": 0.338,
+    "raw_value": 0.3018018018
+  },
+  {
+    "player_id": "1628467",
+    "name": "Maxi Kleber",
+    "best_skill": "PF",
+    "z_score": 0.475,
+    "raw_value": 0.319047619
+  },
+  {
+    "player_id": "1628470",
+    "name": "Torrey Craig",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.414,
+    "raw_value": 0.2923225806
+  },
+  {
+    "player_id": "1628960",
+    "name": "Grayson Allen",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.442,
+    "raw_value": 0.427546875
+  },
+  {
+    "player_id": "1628963",
+    "name": "Marvin Bagley III",
+    "best_skill": "FG_PCT",
+    "z_score": 0.083,
+    "raw_value": 0.4122580645
+  },
+  {
+    "player_id": "1628964",
+    "name": "Mo Bamba",
+    "best_skill": "BLK",
+    "z_score": 1.423,
+    "raw_value": 0.096875
+  },
+  {
+    "player_id": "1628969",
+    "name": "Mikal Bridges",
+    "best_skill": "PTS",
+    "z_score": 1.189,
+    "raw_value": 0.2719750195
+  },
+  {
+    "player_id": "1628970",
+    "name": "Miles Bridges",
+    "best_skill": "FT_PCT",
+    "z_score": 1.8,
+    "raw_value": 0.773609375
+  },
+  {
+    "player_id": "1628971",
+    "name": "Bruce Brown",
+    "best_skill": "FT_PCT",
+    "z_score": 0.843,
+    "raw_value": 0.5569268293
+  },
+  {
+    "player_id": "1628973",
+    "name": "Jalen Brunson",
+    "best_skill": "AST",
+    "z_score": 2.734,
+    "raw_value": 0.3161157025
+  },
+  {
+    "player_id": "1628975",
+    "name": "Jevon Carter",
+    "best_skill": "FG3_PCT",
+    "z_score": -0.096,
+    "raw_value": 0.2251388889
+  },
+  {
+    "player_id": "1628976",
+    "name": "Wendell Carter Jr.",
+    "best_skill": "PF",
+    "z_score": 1.767,
+    "raw_value": 0.4817351598
+  },
+  {
+    "player_id": "1628978",
+    "name": "Donte DiVincenzo",
+    "best_skill": "STL",
+    "z_score": 1.341,
+    "raw_value": 0.1525974026
+  },
+  {
+    "player_id": "1628981",
+    "name": "Bruno Fernando",
+    "best_skill": "FG_PCT",
+    "z_score": 0.736,
+    "raw_value": 0.4911176471
+  },
+  {
+    "player_id": "1628983",
+    "name": "Shai Gilgeous-Alexander",
+    "best_skill": "PTS",
+    "z_score": 3.527,
+    "raw_value": 0.5208196721
+  },
+  {
+    "player_id": "1628988",
+    "name": "Aaron Holiday",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.628,
+    "raw_value": 0.3204615385
+  },
+  {
+    "player_id": "1628989",
+    "name": "Kevin Huerter",
+    "best_skill": "STL",
+    "z_score": 0.703,
+    "raw_value": 0.1195652174
+  },
+  {
+    "player_id": "1628991",
+    "name": "Jaren Jackson Jr.",
+    "best_skill": "BLK",
+    "z_score": 2.688,
+    "raw_value": 0.1474358974
+  },
+  {
+    "player_id": "1628995",
+    "name": "Kevin Knox",
+    "best_skill": "BLK",
+    "z_score": -0.342,
+    "raw_value": 0.02631578947
+  },
+  {
+    "player_id": "1628997",
+    "name": "Caleb Martin",
+    "best_skill": "STL",
+    "z_score": 0.861,
+    "raw_value": 0.1277777778
+  },
+  {
+    "player_id": "1628998",
+    "name": "Cody Martin",
+    "best_skill": "STL",
+    "z_score": 0.944,
+    "raw_value": 0.1320754717
+  },
+  {
+    "player_id": "1629001",
+    "name": "De'Anthony Melton",
+    "best_skill": "PF",
+    "z_score": 1.912,
+    "raw_value": 0.5
+  },
+  {
+    "player_id": "1629003",
+    "name": "Shake Milton",
+    "best_skill": "AST",
+    "z_score": -0.133,
+    "raw_value": 0.08279220779
+  },
+  {
+    "player_id": "1629004",
+    "name": "Svi Mykhailiuk",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.692,
+    "raw_value": 0.3288947368
+  },
+  {
+    "player_id": "1629006",
+    "name": "Josh Okogie",
+    "best_skill": "STL",
+    "z_score": 1.291,
+    "raw_value": 0.15
+  },
+  {
+    "player_id": "1629008",
+    "name": "Michael Porter Jr.",
+    "best_skill": "REB",
+    "z_score": 1.334,
+    "raw_value": 0.2421507064
+  },
+  {
+    "player_id": "1629011",
+    "name": "Mitchell Robinson",
+    "best_skill": "FG_PCT",
+    "z_score": 1.837,
+    "raw_value": 0.62405
+  },
+  {
+    "player_id": "1629012",
+    "name": "Collin Sexton",
+    "best_skill": "TOV",
+    "z_score": 1.757,
+    "raw_value": 0.2308802309
+  },
+  {
+    "player_id": "1629013",
+    "name": "Landry Shamet",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.529,
+    "raw_value": 0.3074375
+  },
+  {
+    "player_id": "1629014",
+    "name": "Anfernee Simons",
+    "best_skill": "PTS",
+    "z_score": 1.6,
+    "raw_value": 0.3156908665
+  },
+  {
+    "player_id": "1629018",
+    "name": "Gary Trent Jr.",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.204,
+    "raw_value": 0.3962025316
+  },
+  {
+    "player_id": "1629020",
+    "name": "Jarred Vanderbilt",
+    "best_skill": "STL",
+    "z_score": 0.631,
+    "raw_value": 0.1158536585
+  },
+  {
+    "player_id": "1629021",
+    "name": "Moritz Wagner",
+    "best_skill": "FG_PCT",
+    "z_score": 1.115,
+    "raw_value": 0.5369
+  },
+  {
+    "player_id": "1629022",
+    "name": "Lonnie Walker IV",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.631,
+    "raw_value": 0.32085
+  },
+  {
+    "player_id": "1629023",
+    "name": "P.J. Washington",
+    "best_skill": "REB",
+    "z_score": 1.741,
+    "raw_value": 0.2769423559
+  },
+  {
+    "player_id": "1629026",
+    "name": "Kenrich Williams",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.494,
+    "raw_value": 0.3027411765
+  },
+  {
+    "player_id": "1629027",
+    "name": "Trae Young",
+    "best_skill": "AST",
+    "z_score": 5.316,
+    "raw_value": 0.5263157895
+  },
+  {
+    "player_id": "1629028",
+    "name": "Deandre Ayton",
+    "best_skill": "REB",
+    "z_score": 2.743,
+    "raw_value": 0.3625
+  },
+  {
+    "player_id": "1629029",
+    "name": "Luka Doncic",
+    "best_skill": "TOV",
+    "z_score": 3.068,
+    "raw_value": 0.3289256198
+  },
+  {
+    "player_id": "1629048",
+    "name": "Goga Bitadze",
+    "best_skill": "BLK",
+    "z_score": 2.392,
+    "raw_value": 0.1356164384
+  },
+  {
+    "player_id": "1629052",
+    "name": "Oshae Brissett",
+    "best_skill": "PF",
+    "z_score": 1.029,
+    "raw_value": 0.3888888889
+  },
+  {
+    "player_id": "1629057",
+    "name": "Robert Williams III",
+    "best_skill": "BLK",
+    "z_score": 3.127,
+    "raw_value": 0.165
+  },
+  {
+    "player_id": "1629060",
+    "name": "Rui Hachimura",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.163,
+    "raw_value": 0.390859375
+  },
+  {
+    "player_id": "1629098",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.364,
+    "raw_value": 0.2857142857
+  },
+  {
+    "player_id": "1629111",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.267,
+    "raw_value": 0.4345
+  },
+  {
+    "player_id": "1629130",
+    "name": "Duncan Robinson",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.133,
+    "raw_value": 0.3868974359
+  },
+  {
+    "player_id": "1629162",
+    "name": "Jordan McLaughlin",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.048,
+    "raw_value": 0.244047619
+  },
+  {
+    "player_id": "1629216",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.691,
+    "raw_value": 0.3463203463
+  },
+  {
+    "player_id": "1629234",
+    "name": "Drew Eubanks",
+    "best_skill": "FG_PCT",
+    "z_score": 0.668,
+    "raw_value": 0.482875
+  },
+  {
+    "player_id": "1629312",
+    "name": "Haywood Highsmith",
+    "best_skill": "PF",
+    "z_score": 0.911,
+    "raw_value": 0.3739316239
+  },
+  {
+    "player_id": "1629599",
+    "name": "Amir Coffey",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.909,
+    "raw_value": 0.3573472222
+  },
+  {
+    "player_id": "1629610",
+    "name": "DaQuan Jeffries",
+    "best_skill": "PF",
+    "z_score": 0.729,
+    "raw_value": 0.3510638298
+  },
+  {
+    "player_id": "1629611",
+    "name": "Terance Mann",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.773,
+    "raw_value": 0.3395522388
+  },
+  {
+    "player_id": "1629614",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.464,
+    "raw_value": 0.2127659574
+  },
+  {
+    "player_id": "1629618",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.206,
+    "raw_value": 0.2649454545
+  },
+  {
+    "player_id": "1629622",
+    "name": "Max Strus",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.927,
+    "raw_value": 0.3596949153
+  },
+  {
+    "player_id": "1629626",
+    "name": "Bol Bol",
+    "best_skill": "FG_PCT",
+    "z_score": 0.769,
+    "raw_value": 0.4951388889
+  },
+  {
+    "player_id": "1629627",
+    "name": "Zion Williamson",
+    "best_skill": "PTS",
+    "z_score": 2.417,
+    "raw_value": 0.4027322404
+  },
+  {
+    "player_id": "1629628",
+    "name": "RJ Barrett",
+    "best_skill": "TOV",
+    "z_score": 2.128,
+    "raw_value": 0.2586206897
+  },
+  {
+    "player_id": "1629629",
+    "name": "Cameron Reddish",
+    "best_skill": "STL",
+    "z_score": 0.808,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1629630",
+    "name": "Ja Morant",
+    "best_skill": "TOV",
+    "z_score": 3.051,
+    "raw_value": 0.3276157804
+  },
+  {
+    "player_id": "1629631",
+    "name": "De'Andre Hunter",
+    "best_skill": "FT_PCT",
+    "z_score": 1.547,
+    "raw_value": 0.7162083333
+  },
+  {
+    "player_id": "1629632",
+    "name": "Coby White",
+    "best_skill": "FT_PCT",
+    "z_score": 1.973,
+    "raw_value": 0.8126621622
+  },
+  {
+    "player_id": "1629634",
+    "name": "Brandon Clarke",
+    "best_skill": "FG_PCT",
+    "z_score": 1.549,
+    "raw_value": 0.58934375
+  },
+  {
+    "player_id": "1629636",
+    "name": "Darius Garland",
+    "best_skill": "AST",
+    "z_score": 2.564,
+    "raw_value": 0.3022727273
+  },
+  {
+    "player_id": "1629637",
+    "name": "Jaxson Hayes",
+    "best_skill": "FG_PCT",
+    "z_score": 2.303,
+    "raw_value": 0.6803166667
+  },
+  {
+    "player_id": "1629638",
+    "name": "Nickeil Alexander-Walker",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.067,
+    "raw_value": 0.3781237113
+  },
+  {
+    "player_id": "1629639",
+    "name": "Tyler Herro",
+    "best_skill": "PTS",
+    "z_score": 2.267,
+    "raw_value": 0.386763813
+  },
+  {
+    "player_id": "1629640",
+    "name": "Keldon Johnson",
+    "best_skill": "FT_PCT",
+    "z_score": 0.928,
+    "raw_value": 0.5763246753
+  },
+  {
+    "player_id": "1629643",
+    "name": "Chuma Okeke",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.451,
+    "raw_value": 0.2971666667
+  },
+  {
+    "player_id": "1629645",
+    "name": "Kevin Porter Jr.",
+    "best_skill": "STL",
+    "z_score": 0.959,
+    "raw_value": 0.1328125
+  },
+  {
+    "player_id": "1629646",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.144,
+    "raw_value": 0.08571428571
+  },
+  {
+    "player_id": "1629650",
+    "name": "Moses Brown",
+    "best_skill": "FG_PCT",
+    "z_score": 0.086,
+    "raw_value": 0.4126923077
+  },
+  {
+    "player_id": "1629651",
+    "name": "Nicolas Claxton",
+    "best_skill": "BLK",
+    "z_score": 2.573,
+    "raw_value": 0.1428571429
+  },
+  {
+    "player_id": "1629652",
+    "name": "Luguentz Dort",
+    "best_skill": "PF",
+    "z_score": 1.912,
+    "raw_value": 0.5
+  },
+  {
+    "player_id": "1629655",
+    "name": "Daniel Gafford",
+    "best_skill": "BLK",
+    "z_score": 3.476,
+    "raw_value": 0.1789473684
+  },
+  {
+    "player_id": "1629656",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 0.955,
+    "raw_value": 0.1709090909
+  },
+  {
+    "player_id": "1629659",
+    "name": "Talen Horton-Tucker",
+    "best_skill": "FT_PCT",
+    "z_score": -0.074,
+    "raw_value": 0.3494912281
+  },
+  {
+    "player_id": "1629660",
+    "name": "Ty Jerome",
+    "best_skill": "FG3_PCT",
+    "z_score": 1.104,
+    "raw_value": 0.3830632911
+  },
+  {
+    "player_id": "1629661",
+    "name": "Cameron Johnson",
+    "best_skill": "FT_PCT",
+    "z_score": 1.798,
+    "raw_value": 0.7731052632
+  },
+  {
+    "player_id": "1629667",
+    "name": "Jalen McDaniels",
+    "best_skill": "STL",
+    "z_score": -0.801,
+    "raw_value": 0.04166666667
+  },
+  {
+    "player_id": "1629669",
+    "name": "Jaylen Nowell",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.602,
+    "raw_value": 0.317
+  },
+  {
+    "player_id": "1629673",
+    "name": "Jordan Poole",
+    "best_skill": "TOV",
+    "z_score": 2.317,
+    "raw_value": 0.2727272727
+  },
+  {
+    "player_id": "1629674",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.397,
+    "raw_value": 0.5709047619
+  },
+  {
+    "player_id": "1629675",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.264,
+    "raw_value": 0.09052631579
+  },
+  {
+    "player_id": "1629680",
+    "name": "Matisse Thybulle",
+    "best_skill": "STL",
+    "z_score": 3.704,
+    "raw_value": 0.275
+  },
+  {
+    "player_id": "1629684",
+    "name": "Grant Williams",
+    "best_skill": "PF",
+    "z_score": 1.746,
+    "raw_value": 0.4791666667
+  },
+  {
+    "player_id": "1629723",
+    "name": "John Konchar",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.357,
+    "raw_value": 0.2847291667
+  },
+  {
+    "player_id": "1629726",
+    "name": "Garrison Mathews",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.873,
+    "raw_value": 0.3526086957
+  },
+  {
+    "player_id": "1629731",
+    "name": "Dean Wade",
+    "best_skill": "FG3_PCT",
+    "z_score": 0.73,
+    "raw_value": 0.3338676471
+  },
+  {
+    "player_id": "1629750",
+    "name": "Javonte Green",
+    "best_skill": "STL",
+    "z_score": 0.645,
+    "raw_value": 0.1165540541
+  },
+  {
+    "player_id": "1630162",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 2.823,
+    "raw_value": 0.445936519
+  },
+  {
+    "player_id": "1630163",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 2.989,
+    "raw_value": 0.3230174081
+  },
+  {
+    "player_id": "1630164",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 2.8,
+    "raw_value": 1.0
+  },
+  {
+    "player_id": "1630165",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.735,
+    "raw_value": 0.2348484848
+  },
+  {
+    "player_id": "1630166",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 1.979,
+    "raw_value": 0.2474747475
+  },
+  {
+    "player_id": "1630167",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.769,
+    "raw_value": 0.4950925926
+  },
+  {
+    "player_id": "1630168",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.228,
+    "raw_value": 0.3185328185
+  },
+  {
+    "player_id": "1630169",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 3.717,
+    "raw_value": 0.3961675579
+  },
+  {
+    "player_id": "1630170",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.562,
+    "raw_value": 0.1640625
+  },
+  {
+    "player_id": "1630171",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.784,
+    "raw_value": 0.341
+  },
+  {
+    "player_id": "1630172",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.691,
+    "raw_value": 0.3286825397
+  },
+  {
+    "player_id": "1630173",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.616,
+    "raw_value": 0.06461538462
+  },
+  {
+    "player_id": "1630174",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.769,
+    "raw_value": 0.481981982
+  },
+  {
+    "player_id": "1630175",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.938,
+    "raw_value": 0.3773148148
+  },
+  {
+    "player_id": "1630178",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 2.688,
+    "raw_value": 0.4315889029
+  },
+  {
+    "player_id": "1630182",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.153,
+    "raw_value": 0.4044117647
+  },
+  {
+    "player_id": "1630183",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.693,
+    "raw_value": 0.4725085911
+  },
+  {
+    "player_id": "1630188",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 0.831,
+    "raw_value": 0.19921875
+  },
+  {
+    "player_id": "1630191",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.529,
+    "raw_value": 0.1410958904
+  },
+  {
+    "player_id": "1630192",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.786,
+    "raw_value": 0.07142857143
+  },
+  {
+    "player_id": "1630193",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 2.082,
+    "raw_value": 0.2630853994
+  },
+  {
+    "player_id": "1630194",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.518,
+    "raw_value": 0.11
+  },
+  {
+    "player_id": "1630198",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.134,
+    "raw_value": 0.3869263158
+  },
+  {
+    "player_id": "1630200",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.181,
+    "raw_value": 0.1897233202
+  },
+  {
+    "player_id": "1630201",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.223,
+    "raw_value": 0.41675
+  },
+  {
+    "player_id": "1630202",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.085,
+    "raw_value": 0.3805604396
+  },
+  {
+    "player_id": "1630205",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.572,
+    "raw_value": 0.2368421053
+  },
+  {
+    "player_id": "1630208",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.917,
+    "raw_value": 0.2919799499
+  },
+  {
+    "player_id": "1630214",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.621,
+    "raw_value": 0.01515151515
+  },
+  {
+    "player_id": "1630215",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 0.898,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1630217",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.772,
+    "raw_value": 0.2378580324
+  },
+  {
+    "player_id": "1630222",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.513,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1630224",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 1.776,
+    "raw_value": 0.3344999079
+  },
+  {
+    "player_id": "1630227",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 0.291,
+    "raw_value": 0.1212121212
+  },
+  {
+    "player_id": "1630228",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 0.989,
+    "raw_value": 0.2506706408
+  },
+  {
+    "player_id": "1630230",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.859,
+    "raw_value": 0.5606811594
+  },
+  {
+    "player_id": "1630231",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.05,
+    "raw_value": 0.3914728682
+  },
+  {
+    "player_id": "1630241",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.823,
+    "raw_value": 0.3461139241
+  },
+  {
+    "player_id": "1630243",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.808,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1630245",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.375,
+    "raw_value": 0.2055335968
+  },
+  {
+    "player_id": "1630249",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.068,
+    "raw_value": 0.3783333333
+  },
+  {
+    "player_id": "1630256",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.069,
+    "raw_value": 0.2679738562
+  },
+  {
+    "player_id": "1630264",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.34,
+    "raw_value": 0.3612790698
+  },
+  {
+    "player_id": "1630283",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.307,
+    "raw_value": 0.4393636364
+  },
+  {
+    "player_id": "1630288",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.049,
+    "raw_value": 0.244275
+  },
+  {
+    "player_id": "1630296",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.375,
+    "raw_value": 0.025
+  },
+  {
+    "player_id": "1630311",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.449,
+    "raw_value": 0.05708245243
+  },
+  {
+    "player_id": "1630314",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.674,
+    "raw_value": 0.51875
+  },
+  {
+    "player_id": "1630322",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.718,
+    "raw_value": 0.3321923077
+  },
+  {
+    "player_id": "1630346",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.734,
+    "raw_value": 0.1411764706
+  },
+  {
+    "player_id": "1630526",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 0.494,
+    "raw_value": 0.1704545455
+  },
+  {
+    "player_id": "1630527",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.44,
+    "raw_value": 0.1577380952
+  },
+  {
+    "player_id": "1630528",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.318,
+    "raw_value": 0.02727272727
+  },
+  {
+    "player_id": "1630529",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.859,
+    "raw_value": 0.23125
+  },
+  {
+    "player_id": "1630530",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 2.083,
+    "raw_value": 0.8376981132
+  },
+  {
+    "player_id": "1630531",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.193,
+    "raw_value": 0.07317073171
+  },
+  {
+    "player_id": "1630532",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 2.373,
+    "raw_value": 0.3979823455
+  },
+  {
+    "player_id": "1630533",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.071,
+    "raw_value": 0.3941798942
+  },
+  {
+    "player_id": "1630534",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.046,
+    "raw_value": 0.37546875
+  },
+  {
+    "player_id": "1630537",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.726,
+    "raw_value": 0.3333333333
+  },
+  {
+    "player_id": "1630538",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.557,
+    "raw_value": 0.3110833333
+  },
+  {
+    "player_id": "1630539",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.406,
+    "raw_value": 0.5720769231
+  },
+  {
+    "player_id": "1630540",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.891,
+    "raw_value": 0.3549885057
+  },
+  {
+    "player_id": "1630541",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.829,
+    "raw_value": 0.3468837209
+  },
+  {
+    "player_id": "1630542",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.001,
+    "raw_value": 0.12
+  },
+  {
+    "player_id": "1630543",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 3.002,
+    "raw_value": 0.16
+  },
+  {
+    "player_id": "1630544",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 1.101,
+    "raw_value": 0.6153846154
+  },
+  {
+    "player_id": "1630545",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.043,
+    "raw_value": 0.4074736842
+  },
+  {
+    "player_id": "1630548",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.754,
+    "raw_value": 0.337046875
+  },
+  {
+    "player_id": "1630549",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.258,
+    "raw_value": 0.2357142857
+  },
+  {
+    "player_id": "1630550",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.125,
+    "raw_value": 0.045
+  },
+  {
+    "player_id": "1630551",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.925,
+    "raw_value": 0.1310483871
+  },
+  {
+    "player_id": "1630552",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.669,
+    "raw_value": 0.3561507937
+  },
+  {
+    "player_id": "1630553",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.443,
+    "raw_value": 0.44092827
+  },
+  {
+    "player_id": "1630556",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.471,
+    "raw_value": 0.05882352941
+  },
+  {
+    "player_id": "1630557",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.679,
+    "raw_value": 0.3271639344
+  },
+  {
+    "player_id": "1630558",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.628,
+    "raw_value": 0.2261072261
+  },
+  {
+    "player_id": "1630559",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.993,
+    "raw_value": 0.2558275058
+  },
+  {
+    "player_id": "1630560",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 2.347,
+    "raw_value": 0.89732
+  },
+  {
+    "player_id": "1630561",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.093,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1630567",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 2.13,
+    "raw_value": 0.2587412587
+  },
+  {
+    "player_id": "1630568",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.383,
+    "raw_value": 0.4484883721
+  },
+  {
+    "player_id": "1630570",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 0.963,
+    "raw_value": 0.1714876033
+  },
+  {
+    "player_id": "1630572",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.609,
+    "raw_value": 0.3179344262
+  },
+  {
+    "player_id": "1630573",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.185,
+    "raw_value": 0.3937088608
+  },
+  {
+    "player_id": "1630574",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.34,
+    "raw_value": 0.05357142857
+  },
+  {
+    "player_id": "1630577",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.841,
+    "raw_value": 0.3483780488
+  },
+  {
+    "player_id": "1630578",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.877,
+    "raw_value": 0.3739242685
+  },
+  {
+    "player_id": "1630579",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.186,
+    "raw_value": 0.4247037037
+  },
+  {
+    "player_id": "1630581",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 2.863,
+    "raw_value": 0.3266233766
+  },
+  {
+    "player_id": "1630583",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.165,
+    "raw_value": 0.2277432712
+  },
+  {
+    "player_id": "1630585",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.25,
+    "raw_value": 0.4166666667
+  },
+  {
+    "player_id": "1630590",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.506,
+    "raw_value": 0.1611445783
+  },
+  {
+    "player_id": "1630591",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 2.213,
+    "raw_value": 0.2649350649
+  },
+  {
+    "player_id": "1630592",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.689,
+    "raw_value": 0.3459915612
+  },
+  {
+    "player_id": "1630595",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 4.124,
+    "raw_value": 0.4078947368
+  },
+  {
+    "player_id": "1630596",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.831,
+    "raw_value": 0.153164557
+  },
+  {
+    "player_id": "1630598",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.733,
+    "raw_value": 0.3341734694
+  },
+  {
+    "player_id": "1630604",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": -0.735,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1630611",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.042,
+    "raw_value": 0.2645502646
+  },
+  {
+    "player_id": "1630618",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": -0.114,
+    "raw_value": 0.09090909091
+  },
+  {
+    "player_id": "1630623",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.156,
+    "raw_value": 0.4047619048
+  },
+  {
+    "player_id": "1630625",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.269,
+    "raw_value": 0.05074626866
+  },
+  {
+    "player_id": "1630631",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.584,
+    "raw_value": 0.1651785714
+  },
+  {
+    "player_id": "1630639",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.501,
+    "raw_value": 0.3037692308
+  },
+  {
+    "player_id": "1630643",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.378,
+    "raw_value": 0.09508196721
+  },
+  {
+    "player_id": "1630644",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.312,
+    "raw_value": 0.06818181818
+  },
+  {
+    "player_id": "1630649",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.305,
+    "raw_value": 0.02777777778
+  },
+  {
+    "player_id": "1630658",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.641,
+    "raw_value": 0.34
+  },
+  {
+    "player_id": "1630678",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.778,
+    "raw_value": 0.0303030303
+  },
+  {
+    "player_id": "1630692",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.662,
+    "raw_value": 0.1174242424
+  },
+  {
+    "player_id": "1630695",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.316,
+    "raw_value": 0.2793947368
+  },
+  {
+    "player_id": "1630696",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.015,
+    "raw_value": 0.1875
+  },
+  {
+    "player_id": "1630699",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.093,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1630700",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 5.667,
+    "raw_value": 0.3766447368
+  },
+  {
+    "player_id": "1630702",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.509,
+    "raw_value": 0.3047142857
+  },
+  {
+    "player_id": "1630703",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 1.93,
+    "raw_value": 0.2438016529
+  },
+  {
+    "player_id": "1630762",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.0,
+    "raw_value": 0.04
+  },
+  {
+    "player_id": "1630811",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.647,
+    "raw_value": 0.1166666667
+  },
+  {
+    "player_id": "1631093",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 2.276,
+    "raw_value": 0.2696969697
+  },
+  {
+    "player_id": "1631094",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 2.674,
+    "raw_value": 0.4300867888
+  },
+  {
+    "player_id": "1631095",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.282,
+    "raw_value": 0.2377232143
+  },
+  {
+    "player_id": "1631096",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 4.092,
+    "raw_value": 0.2035714286
+  },
+  {
+    "player_id": "1631097",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 1.373,
+    "raw_value": 0.6769
+  },
+  {
+    "player_id": "1631098",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.013,
+    "raw_value": 0.4006896552
+  },
+  {
+    "player_id": "1631099",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.288,
+    "raw_value": 0.2382518797
+  },
+  {
+    "player_id": "1631101",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 1.49,
+    "raw_value": 0.3039617486
+  },
+  {
+    "player_id": "1631102",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.463,
+    "raw_value": 0.05594405594
+  },
+  {
+    "player_id": "1631103",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.717,
+    "raw_value": 0.3321590909
+  },
+  {
+    "player_id": "1631104",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.052,
+    "raw_value": 0.08934169279
+  },
+  {
+    "player_id": "1631105",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.835,
+    "raw_value": 0.3703231293
+  },
+  {
+    "player_id": "1631106",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.354,
+    "raw_value": 0.205078125
+  },
+  {
+    "player_id": "1631107",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.711,
+    "raw_value": 0.33138
+  },
+  {
+    "player_id": "1631108",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.999,
+    "raw_value": 0.3692179487
+  },
+  {
+    "player_id": "1631109",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.747,
+    "raw_value": 0.3628246753
+  },
+  {
+    "player_id": "1631110",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.224,
+    "raw_value": 0.2328042328
+  },
+  {
+    "player_id": "1631111",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.052,
+    "raw_value": 0.2309714286
+  },
+  {
+    "player_id": "1631114",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.106,
+    "raw_value": 0.1922043011
+  },
+  {
+    "player_id": "1631115",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.949,
+    "raw_value": 0.3787878788
+  },
+  {
+    "player_id": "1631116",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.129,
+    "raw_value": 0.3863636364
+  },
+  {
+    "player_id": "1631117",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 4.951,
+    "raw_value": 0.2379310345
+  },
+  {
+    "player_id": "1631119",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.147,
+    "raw_value": 0.3886666667
+  },
+  {
+    "player_id": "1631120",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.351,
+    "raw_value": 0.19165
+  },
+  {
+    "player_id": "1631121",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.513,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1631123",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 0.615,
+    "raw_value": 0.1454545455
+  },
+  {
+    "player_id": "1631124",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.839,
+    "raw_value": 0.3648648649
+  },
+  {
+    "player_id": "1631127",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.019,
+    "raw_value": 0.4
+  },
+  {
+    "player_id": "1631128",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.31,
+    "raw_value": 0.5604680851
+  },
+  {
+    "player_id": "1631131",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 2.143,
+    "raw_value": 0.3112244898
+  },
+  {
+    "player_id": "1631132",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.584,
+    "raw_value": 0.4728055556
+  },
+  {
+    "player_id": "1631133",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.115,
+    "raw_value": 0.4161896552
+  },
+  {
+    "player_id": "1631157",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.454,
+    "raw_value": 0.2975423729
+  },
+  {
+    "player_id": "1631159",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.168,
+    "raw_value": 0.4225714286
+  },
+  {
+    "player_id": "1631165",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.045,
+    "raw_value": 0.1890625
+  },
+  {
+    "player_id": "1631166",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 1.519,
+    "raw_value": 0.2579365079
+  },
+  {
+    "player_id": "1631169",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.171,
+    "raw_value": 0.2152708333
+  },
+  {
+    "player_id": "1631170",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.528,
+    "raw_value": 0.1105072464
+  },
+  {
+    "player_id": "1631172",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.019,
+    "raw_value": 0.2353333333
+  },
+  {
+    "player_id": "1631197",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.407,
+    "raw_value": 0.4582857143
+  },
+  {
+    "player_id": "1631199",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 2.8,
+    "raw_value": 1.0
+  },
+  {
+    "player_id": "1631200",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.364,
+    "raw_value": 0.06433823529
+  },
+  {
+    "player_id": "1631204",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.561,
+    "raw_value": 0.3115789474
+  },
+  {
+    "player_id": "1631207",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.008,
+    "raw_value": 0.2602739726
+  },
+  {
+    "player_id": "1631209",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.201,
+    "raw_value": 0.39585
+  },
+  {
+    "player_id": "1631210",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.892,
+    "raw_value": 0.02097902098
+  },
+  {
+    "player_id": "1631212",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.111,
+    "raw_value": 0.1243902439
+  },
+  {
+    "player_id": "1631213",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.56,
+    "raw_value": 0.3114333333
+  },
+  {
+    "player_id": "1631214",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 5.794,
+    "raw_value": 1.0
+  },
+  {
+    "player_id": "1631216",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.271,
+    "raw_value": 0.2734098361
+  },
+  {
+    "player_id": "1631217",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.109,
+    "raw_value": 0.5361971831
+  },
+  {
+    "player_id": "1631218",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.218,
+    "raw_value": 0.5492957746
+  },
+  {
+    "player_id": "1631221",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.999,
+    "raw_value": 0.3691818182
+  },
+  {
+    "player_id": "1631222",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.814,
+    "raw_value": 0.3449090909
+  },
+  {
+    "player_id": "1631223",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.337,
+    "raw_value": 0.44290625
+  },
+  {
+    "player_id": "1631230",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.177,
+    "raw_value": 0.04705882353
+  },
+  {
+    "player_id": "1631232",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 0.786,
+    "raw_value": 0.07142857143
+  },
+  {
+    "player_id": "1631243",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.501,
+    "raw_value": 0.1
+  },
+  {
+    "player_id": "1631245",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.271,
+    "raw_value": 0.09722222222
+  },
+  {
+    "player_id": "1631246",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.488,
+    "raw_value": 0.3020333333
+  },
+  {
+    "player_id": "1631247",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": -0.519,
+    "raw_value": 0.06060606061
+  },
+  {
+    "player_id": "1631248",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.281,
+    "raw_value": 0.2008
+  },
+  {
+    "player_id": "1631250",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.03,
+    "raw_value": 0.2338333333
+  },
+  {
+    "player_id": "1631255",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.442,
+    "raw_value": 0.09761904762
+  },
+  {
+    "player_id": "1631260",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 1.225,
+    "raw_value": 0.3990128205
+  },
+  {
+    "player_id": "1631288",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.062,
+    "raw_value": 0.2459459459
+  },
+  {
+    "player_id": "1631303",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.64,
+    "raw_value": 0.05
+  },
+  {
+    "player_id": "1631306",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.353,
+    "raw_value": 0.2842
+  },
+  {
+    "player_id": "1631311",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.085,
+    "raw_value": 0.249
+  },
+  {
+    "player_id": "1631321",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": -0.661,
+    "raw_value": 0.05
+  },
+  {
+    "player_id": "1631323",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.396,
+    "raw_value": 0.28992
+  },
+  {
+    "player_id": "1631342",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.425,
+    "raw_value": 0.2936666667
+  },
+  {
+    "player_id": "1631386",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.808,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1631466",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": -0.418,
+    "raw_value": 0.06818181818
+  },
+  {
+    "player_id": "1641705",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 8.57,
+    "raw_value": 0.3826086957
+  },
+  {
+    "player_id": "1641706",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 2.092,
+    "raw_value": 0.2558922559
+  },
+  {
+    "player_id": "1641707",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.417,
+    "raw_value": 0.2083333333
+  },
+  {
+    "player_id": "1641708",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.126,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1641709",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.293,
+    "raw_value": 0.2019230769
+  },
+  {
+    "player_id": "1641710",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.011,
+    "raw_value": 0.1355421687
+  },
+  {
+    "player_id": "1641711",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 1.36,
+    "raw_value": 0.6740555556
+  },
+  {
+    "player_id": "1641712",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": -0.556,
+    "raw_value": 0.05785123967
+  },
+  {
+    "player_id": "1641713",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.611,
+    "raw_value": 0.318137931
+  },
+  {
+    "player_id": "1641715",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.393,
+    "raw_value": 0.2895
+  },
+  {
+    "player_id": "1641716",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.425,
+    "raw_value": 0.2937586207
+  },
+  {
+    "player_id": "1641717",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 2.382,
+    "raw_value": 0.2065217391
+  },
+  {
+    "player_id": "1641718",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.992,
+    "raw_value": 0.2557666214
+  },
+  {
+    "player_id": "1641720",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.37,
+    "raw_value": 0.45
+  },
+  {
+    "player_id": "1641721",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.299,
+    "raw_value": 0.2771481481
+  },
+  {
+    "player_id": "1641722",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.563,
+    "raw_value": 0.3118392857
+  },
+  {
+    "player_id": "1641723",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.37,
+    "raw_value": 0.45
+  },
+  {
+    "player_id": "1641724",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.15,
+    "raw_value": 0.2575245902
+  },
+  {
+    "player_id": "1641725",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.843,
+    "raw_value": 0.025
+  },
+  {
+    "player_id": "1641726",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.891,
+    "raw_value": 0.1555555556
+  },
+  {
+    "player_id": "1641727",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.391,
+    "raw_value": 0.2892
+  },
+  {
+    "player_id": "1641729",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.948,
+    "raw_value": 0.3625774648
+  },
+  {
+    "player_id": "1641730",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.962,
+    "raw_value": 0.3804347826
+  },
+  {
+    "player_id": "1641731",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.585,
+    "raw_value": 0.1652542373
+  },
+  {
+    "player_id": "1641732",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.187,
+    "raw_value": 0.09285714286
+  },
+  {
+    "player_id": "1641733",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.616,
+    "raw_value": 0.31885
+  },
+  {
+    "player_id": "1641734",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.258,
+    "raw_value": 0.2717
+  },
+  {
+    "player_id": "1641736",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.607,
+    "raw_value": 0.1145833333
+  },
+  {
+    "player_id": "1641737",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.082,
+    "raw_value": 0.1232142857
+  },
+  {
+    "player_id": "1641738",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.044,
+    "raw_value": 0.4075405405
+  },
+  {
+    "player_id": "1641739",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.984,
+    "raw_value": 0.1858974359
+  },
+  {
+    "player_id": "1641740",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.479,
+    "raw_value": 0.1079545455
+  },
+  {
+    "player_id": "1641741",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.562,
+    "raw_value": 0.4934202899
+  },
+  {
+    "player_id": "1641744",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.394,
+    "raw_value": 0.1357142857
+  },
+  {
+    "player_id": "1641745",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.223,
+    "raw_value": 0.2084666667
+  },
+  {
+    "player_id": "1641748",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.193,
+    "raw_value": 0.2835820896
+  },
+  {
+    "player_id": "1641752",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": -0.546,
+    "raw_value": 0.1904761905
+  },
+  {
+    "player_id": "1641753",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.403,
+    "raw_value": 0.275
+  },
+  {
+    "player_id": "1641755",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": -0.073,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1641757",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.336,
+    "raw_value": 0.06578947368
+  },
+  {
+    "player_id": "1641763",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.249,
+    "raw_value": 0.4322911392
+  },
+  {
+    "player_id": "1641764",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 1.062,
+    "raw_value": 0.1381578947
+  },
+  {
+    "player_id": "1641765",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.321,
+    "raw_value": 0.2936530612
+  },
+  {
+    "player_id": "1641766",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.809,
+    "raw_value": 0.5
+  },
+  {
+    "player_id": "1641767",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.596,
+    "raw_value": 0.3162159091
+  },
+  {
+    "player_id": "1641772",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.887,
+    "raw_value": 0.5094
+  },
+  {
+    "player_id": "1641774",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.008,
+    "raw_value": 0.5239705882
+  },
+  {
+    "player_id": "1641775",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.45,
+    "raw_value": 0.022
+  },
+  {
+    "player_id": "1641779",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.093,
+    "raw_value": 0.25
+  },
+  {
+    "player_id": "1641783",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.306,
+    "raw_value": 0.2779868421
+  },
+  {
+    "player_id": "1641787",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 1.012,
+    "raw_value": 0.59525
+  },
+  {
+    "player_id": "1641789",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.119,
+    "raw_value": 0.2221666667
+  },
+  {
+    "player_id": "1641790",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.081,
+    "raw_value": 0.4120555556
+  },
+  {
+    "player_id": "1641794",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.563,
+    "raw_value": 0.04776579353
+  },
+  {
+    "player_id": "1641796",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.351,
+    "raw_value": 0.2839272727
+  },
+  {
+    "player_id": "1641798",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.158,
+    "raw_value": 0.075
+  },
+  {
+    "player_id": "1641801",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.882,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1641803",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -1.0,
+    "raw_value": 0.0
+  },
+  {
+    "player_id": "1641809",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.531,
+    "raw_value": 0.307625
+  },
+  {
+    "player_id": "1641810",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.71,
+    "raw_value": 0.3311818182
+  },
+  {
+    "player_id": "1641815",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.801,
+    "raw_value": 0.04166666667
+  },
+  {
+    "player_id": "1641816",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.167,
+    "raw_value": 0.2597843137
+  },
+  {
+    "player_id": "1641817",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.292,
+    "raw_value": 0.4375
+  },
+  {
+    "player_id": "1641824",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.345,
+    "raw_value": 0.09375
+  },
+  {
+    "player_id": "1641842",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.463,
+    "raw_value": 0.4710930233
+  },
+  {
+    "player_id": "1641854",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.136,
+    "raw_value": 0.3858909091
+  },
+  {
+    "player_id": "1641857",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.583,
+    "raw_value": 0.01666666667
+  },
+  {
+    "player_id": "1641871",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.011,
+    "raw_value": 0.2364
+  },
+  {
+    "player_id": "1641878",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 1.182,
+    "raw_value": 0.1878787879
+  },
+  {
+    "player_id": "1641879",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.25,
+    "raw_value": 0.4166666667
+  },
+  {
+    "player_id": "1641890",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.621,
+    "raw_value": 0.4772631579
+  },
+  {
+    "player_id": "1641936",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.003,
+    "raw_value": 0.08333333333
+  },
+  {
+    "player_id": "1641989",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.808,
+    "raw_value": 0.125
+  },
+  {
+    "player_id": "1641998",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.497,
+    "raw_value": 0.4622894737
+  },
+  {
+    "player_id": "1642024",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.32,
+    "raw_value": 0.5616666667
+  },
+  {
+    "player_id": "1642050",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 1.27,
+    "raw_value": 0.5556666667
+  },
+  {
+    "player_id": "1642258",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.59,
+    "raw_value": 0.31544
+  },
+  {
+    "player_id": "1642259",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.77,
+    "raw_value": 0.1507462687
+  },
+  {
+    "player_id": "1642261",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.685,
+    "raw_value": 0.3279493671
+  },
+  {
+    "player_id": "1642262",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.456,
+    "raw_value": 0.3166666667
+  },
+  {
+    "player_id": "1642263",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.118,
+    "raw_value": 0.2533653846
+  },
+  {
+    "player_id": "1642264",
+    "name": NaN,
+    "best_skill": "TOV",
+    "z_score": 1.326,
+    "raw_value": 0.1986531987
+  },
+  {
+    "player_id": "1642265",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 0.024,
+    "raw_value": 0.09554730983
+  },
+  {
+    "player_id": "1642266",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.39,
+    "raw_value": 0.1033653846
+  },
+  {
+    "player_id": "1642267",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.329,
+    "raw_value": 0.2017738359
+  },
+  {
+    "player_id": "1642268",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 2.358,
+    "raw_value": 0.28553137
+  },
+  {
+    "player_id": "1642269",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.195,
+    "raw_value": 0.2120833333
+  },
+  {
+    "player_id": "1642270",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 3.106,
+    "raw_value": 0.1641791045
+  },
+  {
+    "player_id": "1642271",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.129,
+    "raw_value": 0.4014084507
+  },
+  {
+    "player_id": "1642272",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 0.991,
+    "raw_value": 0.250890948
+  },
+  {
+    "player_id": "1642273",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 1.853,
+    "raw_value": 0.4926470588
+  },
+  {
+    "player_id": "1642274",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 2.358,
+    "raw_value": 0.1342465753
+  },
+  {
+    "player_id": "1642275",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": 0.449,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1642276",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": 1.685,
+    "raw_value": 0.1073529412
+  },
+  {
+    "player_id": "1642277",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.4,
+    "raw_value": 0.024
+  },
+  {
+    "player_id": "1642278",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.031,
+    "raw_value": 0.2337777778
+  },
+  {
+    "player_id": "1642279",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.643,
+    "raw_value": 0.01428571429
+  },
+  {
+    "player_id": "1642280",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": 0.591,
+    "raw_value": 0.5
+  },
+  {
+    "player_id": "1642281",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.187,
+    "raw_value": 0.2624042553
+  },
+  {
+    "player_id": "1642285",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.002,
+    "raw_value": 0.2380454545
+  },
+  {
+    "player_id": "1642345",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.893,
+    "raw_value": 0.5101147541
+  },
+  {
+    "player_id": "1642346",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.878,
+    "raw_value": 0.3698630137
+  },
+  {
+    "player_id": "1642347",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 1.203,
+    "raw_value": 0.1915151515
+  },
+  {
+    "player_id": "1642348",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.889,
+    "raw_value": 0.3712121212
+  },
+  {
+    "player_id": "1642349",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.474,
+    "raw_value": 0.3002083333
+  },
+  {
+    "player_id": "1642352",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.375,
+    "raw_value": 0.025
+  },
+  {
+    "player_id": "1642353",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.64,
+    "raw_value": 0.05
+  },
+  {
+    "player_id": "1642354",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": 0.674,
+    "raw_value": 0.1180555556
+  },
+  {
+    "player_id": "1642355",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.385,
+    "raw_value": 0.1871923077
+  },
+  {
+    "player_id": "1642358",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": 0.314,
+    "raw_value": 0.1191222571
+  },
+  {
+    "player_id": "1642359",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.722,
+    "raw_value": 0.01111111111
+  },
+  {
+    "player_id": "1642366",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.624,
+    "raw_value": 0.3199433962
+  },
+  {
+    "player_id": "1642367",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": 0.798,
+    "raw_value": 0.3597883598
+  },
+  {
+    "player_id": "1642368",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 3.847,
+    "raw_value": 0.86675
+  },
+  {
+    "player_id": "1642377",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.619,
+    "raw_value": 0.3192278481
+  },
+  {
+    "player_id": "1642382",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.834,
+    "raw_value": 0.3475517241
+  },
+  {
+    "player_id": "1642384",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.583,
+    "raw_value": 0.01666666667
+  },
+  {
+    "player_id": "1642385",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -1.0,
+    "raw_value": 0.0
+  },
+  {
+    "player_id": "1642389",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -1.0,
+    "raw_value": 0.0
+  },
+  {
+    "player_id": "1642399",
+    "name": NaN,
+    "best_skill": "PF",
+    "z_score": -0.735,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1642402",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.508,
+    "raw_value": 0.3409090909
+  },
+  {
+    "player_id": "1642403",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.912,
+    "raw_value": 0.5123243243
+  },
+  {
+    "player_id": "1642419",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.986,
+    "raw_value": 0.3675344828
+  },
+  {
+    "player_id": "1642422",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": -0.019,
+    "raw_value": 0.4
+  },
+  {
+    "player_id": "1642434",
+    "name": NaN,
+    "best_skill": "REB",
+    "z_score": -0.666,
+    "raw_value": 0.07142857143
+  },
+  {
+    "player_id": "1642439",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.542,
+    "raw_value": 0.1665
+  },
+  {
+    "player_id": "1642443",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 0.809,
+    "raw_value": 0.5
+  },
+  {
+    "player_id": "1642449",
+    "name": NaN,
+    "best_skill": "FG_PCT",
+    "z_score": 2.193,
+    "raw_value": 0.667
+  },
+  {
+    "player_id": "1642450",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": -0.722,
+    "raw_value": 0.1428571429
+  },
+  {
+    "player_id": "1642461",
+    "name": NaN,
+    "best_skill": "BLK",
+    "z_score": -0.342,
+    "raw_value": 0.02631578947
+  },
+  {
+    "player_id": "1642484",
+    "name": NaN,
+    "best_skill": "STL",
+    "z_score": -0.07,
+    "raw_value": 0.07954545455
+  },
+  {
+    "player_id": "1642502",
+    "name": NaN,
+    "best_skill": "FT_PCT",
+    "z_score": -0.882,
+    "raw_value": 0.1666666667
+  },
+  {
+    "player_id": "1642505",
+    "name": NaN,
+    "best_skill": "FG3_PCT",
+    "z_score": 0.726,
+    "raw_value": 0.3333333333
+  },
+  {
+    "player_id": "1642530",
+    "name": NaN,
+    "best_skill": "AST",
+    "z_score": -0.592,
+    "raw_value": 0.04545454545
+  },
+  {
+    "player_id": "<NA>",
+    "name": NaN,
+    "best_skill": "PTS",
+    "z_score": 0.284,
+    "raw_value": 0.1756048827
+  }
+]
